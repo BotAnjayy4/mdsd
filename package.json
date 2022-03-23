@@ -1,7 +1,7 @@
 {
-  "name": "sanzy-YT",
+  "name": "InzGG",
   "version": "1.2.3",
-  "description": "WhatsApp Using Lib Baileys Multi Device",
+  "description": "Saia Robot",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
@@ -18,7 +18,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "Sanzy YT.",
+  "author": "Robot Buntu.",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^4.0.1",
