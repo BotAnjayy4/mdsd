@@ -56,16 +56,16 @@ global.APIKeys = {
 // Other
 
 
-global.owner = [ '6281276698054' ]
+global.owner = [ '6289667644225' ]
 
 
-global.premium = ['6281276698054']
+global.premium = ['6289667644225']
 
 
-global.packname = 'Sanzy Gemoyyy'
+global.packname = 'Indraz GG'
 
 
-global.author = 'WhatsApp Bot'
+global.author = 'Robot Pinter'
 
 
 global.sessionName = 'session'
@@ -80,16 +80,16 @@ global.sp = '⭔'
 global.mess = {
 
 
-    success: '✓ Success',
+    success: 'Done Banh *√*',
 
 
-    admin: 'Fitur Khusus Admin Group!',
+    admin: 'Mau Pake Fitur Ini? Jdi Admin Dulu🗿',
 
 
-    botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
+    botAdmin: 'Saia Bukan Admin Banh',
 
 
-    owner: 'Fitur Khusus Owner Bot',
+    owner: 'Mau Pake Fitur Ini? Jdi Owner Dulu🗿',
 
 
     group: 'Fitur Digunakan Hanya Untuk Group!',
@@ -101,7 +101,7 @@ global.mess = {
     bot: 'Fitur Khusus Pengguna Nomor Bot',
 
 
-    wait: 'Loading...',
+    wait: 'Wet banh..',
 
 
     endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12',
